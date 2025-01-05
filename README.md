@@ -5,4 +5,3 @@ then initialize npm
 then download npm packages (@inquirer/prompts, qr-image)
 then run the code
 
-
